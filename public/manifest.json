@@ -1,0 +1,37 @@
+{
+    "name": "Blog and Share your Knowledge",
+    "short_name": "Blogger",
+    "display": "standalone",
+    "start_url": "/index.html",
+    "background_color": "#34495e",
+    "theme_color": "#8e44ad",
+    "icons": [{
+        "src": "src/images/open-book16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+    }, {
+        "src": "src/images/open-book24.png",
+        "type": "image/png",
+        "sizes": "24x24"
+    }, {
+        "src": "src/images/open-book32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+    }, {
+        "src": "src/images/open-book64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+    }, {
+        "src": "src/images/open-book128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+    }, {
+        "src": "src/images/open-book256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+    }, {
+        "src": "/src/images/open-book512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }]
+}
